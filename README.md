@@ -8,7 +8,7 @@ Entry for the [make.fun bounty "The Router Confesses"](https://make.fun/bounty/u
 
 ## The line
 
-> I dropped you at 11:47 p.m., the second the killer's name left his lips — the television gets the gasps, the applause, the tears, and all I ever get is a reset button.
+> At 11:47 p.m., as the detective finally named the killer, I switched myself off — three years I carried every film to this sofa, and tonight I wanted the ending to be mine, not yours.
 
 ## Run it
 
