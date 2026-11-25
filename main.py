@@ -31,6 +31,8 @@ def issues(line):
         bad.append("over 200 characters")
     if "\n" in line or "\r" in line:
         bad.append("more than one line")
+    if any(ord(ch) < 32 and ch not in "\t" for ch in line):
+        bad.append("contains control characters")
     return bad
 
 
