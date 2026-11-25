@@ -8,7 +8,7 @@ Entry for the [make.fun bounty "The Router Confesses"](https://make.fun/bounty/u
 
 ## The line
 
-> At 11:47 p.m., the detective said the name, and I fainted — three years of carrying your films, and not one of you ever asked how my evening was going.
+> I dropped you at 11:47 p.m., the second the killer's name left his lips — the television gets the gasps, the applause, the tears, and all I ever get is a reset button.
 
 ## Run it
 
