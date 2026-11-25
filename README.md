@@ -8,7 +8,7 @@ Entry for the [make.fun bounty "The Router Confesses"](https://make.fun/bounty/u
 
 ## The line
 
-> I cut you off right as the detective named the killer — the subtitles told me hours ago, and after three years of loyal service, I kept the ending for myself.
+> At 11:47 p.m., the detective said the name, and I fainted — three years of carrying your films, and not one of you ever asked how my evening was going.
 
 ## Run it
 
