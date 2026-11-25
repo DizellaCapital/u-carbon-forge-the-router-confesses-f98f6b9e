@@ -1,4 +1,4 @@
-"""The Router Confesses — v1.
+"""The Router Confesses — v2.
 
 A home Wi-Fi router excuses itself for dropping the connection at the
 exact moment a movie reaches its climax. One line, 1-200 characters.
@@ -7,9 +7,9 @@ exact moment a movie reaches its climax. One line, 1-200 characters.
 import os
 
 LINE = (
-    "At 11:47 p.m., the second the detective named the killer, I went "
-    "dark \u2014 three years I have carried this house's films, and nobody "
-    "has ever once thanked the little blinking box."
+    "I cut you off right as the detective named the killer \u2014 the "
+    "subtitles told me hours ago, and after three years of loyal "
+    "service, I kept the ending for myself."
 )
 
 

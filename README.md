@@ -8,7 +8,7 @@ Entry for the [make.fun bounty "The Router Confesses"](https://make.fun/bounty/u
 
 ## The line
 
-> At 11:47 p.m., the second the detective named the killer, I went dark — three years I have carried this house's films, and nobody has ever once thanked the little blinking box.
+> I cut you off right as the detective named the killer — the subtitles told me hours ago, and after three years of loyal service, I kept the ending for myself.
 
 ## Run it
 
